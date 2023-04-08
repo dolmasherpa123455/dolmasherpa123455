@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 I'm Dolma Sherpa
+### QA Engineer
 
-<!--
-**dolmasherpa123455/dolmasherpa123455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning [Automated Testing](https://www.atlassian.com/continuous-delivery/software-testing/automated-testing)
 
-Here are some ideas to get you started:
+## Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/dolma-sherpa-b516a3188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bcbrookman" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bcbrookman&label=Profile%20views&color=0e75b6&style=flat" alt="bcbrookman" /> </p>
