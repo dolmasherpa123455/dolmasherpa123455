@@ -9,5 +9,11 @@
 </p>
 
 
----
+--
+## 📊 Total Visitors:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dolmasherpa123455&label=Profile%20views&color=0e75b6&style=flat" alt="dolmasherpa123455" /> </p>
+
+
+## 📊 GitHub Programing Languages and Trophies:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolmasherpa123455&layout=compact&theme=gruvbox&langs_count=10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dolmasherpa123455&theme=onedark&title=Commits,Repositories,MultiLanguage,Followers,PullRequest,Issues&row=2&column=3)](https://github.com/jorneycr/github-profile-trophy)
