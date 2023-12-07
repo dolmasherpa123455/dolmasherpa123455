@@ -1,7 +1,7 @@
 # 👋 I'm Dolma Sherpa
 ### QA Engineer
 
-- 🌱 I’m currently learning [Automated Testing](https://www.atlassian.com/continuous-delivery/software-testing/automated-testing)
+
 
 ## Connect with me
 <p align="left">
