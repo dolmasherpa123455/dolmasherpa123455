@@ -1,5 +1,6 @@
 # 👋 I'm Dolma Sherpa
 ### QA Engineer
+# I am committed to delivering high-quality results through a meticulous and methodical approach to testing. My ability to combine manual and automated testing strategies allows me to provide comprehensive testing services that are both thorough and efficient. I am passionate about ensuring that every software product I work on is of the highest quality, providing end-users with a reliable and enjoyable experience.
 
 
 
