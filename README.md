@@ -1,6 +1,6 @@
 # 👋 I'm Dolma Sherpa
 ## QA Engineer
-#### Quality Assurance Specialist | Test Automation | API & Web App Testing | Mobile App Testing
+##### Quality Assurance Specialist | Test Automation | API & Web App Testing | Mobile App Testing
 
 Welcome to my Github profile! With a strong background in Quality Assurance, I specialize in test automation, API testing, and web testing to ensure seamless functionality and performance of software applications.
 
