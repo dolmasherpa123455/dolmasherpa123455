@@ -1,6 +1,17 @@
 # 👋 I'm Dolma Sherpa
 ## QA Engineer
-### I am committed to delivering high-quality results through a meticulous and methodical approach to testing. My ability to combine manual and automated testing strategies allows me to provide comprehensive testing services that are both thorough and efficient. I am passionate about ensuring that every software product I work on is of the highest quality, providing end-users with a reliable and enjoyable experience.
+#### Quality Assurance Specialist | Test Automation | API & Web App Testing | Mobile App Testing
+
+Welcome to my Github profile! With a strong background in Quality Assurance, I specialize in test automation, API testing, and web testing to ensure seamless functionality and performance of software applications.
+
+Key Skills:
+
+Test Automation: Proficient in using tools like Cypress, Playwrights for automated testing to streamline processes and enhance efficiency.
+API Testing: Experienced in validating backend functionalities to ensure robust and reliable API integrations.
+Web Testing: Skilled in testing web applications across multiple browsers to guarantee optimal user experience and compatibility.
+Experience:
+I have successfully delivered projects focusing on test case design, execution, and documentation, ensuring thorough coverage and accuracy in testing processes. My goal is to contribute to the success of your projects by delivering high-quality, bug-free software solutions.
+
 
 
 
