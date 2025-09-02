@@ -4,14 +4,25 @@
 
 Welcome to my Github profile! With a strong background in Quality Assurance, I specialize in test automation, API testing, and web testing to ensure seamless functionality and performance of software applications.
 
-Key Skills:
+### Key Skills  
 
-Test Automation: Proficient in using tools like Cypress, Playwrights for automated testing to streamline processes and enhance efficiency.
-API Testing: Experienced in validating backend functionalities to ensure robust and reliable API integrations.
-Web Testing: Skilled in testing web applications across multiple browsers to guarantee optimal user experience and compatibility.
-Experience:
-I have successfully delivered projects focusing on test case design, execution, and documentation, ensuring thorough coverage and accuracy in testing processes. My goal is to contribute to the success of your projects by delivering high-quality, bug-free software solutions.
+**Test Methodologies**  
+✔️ Manual Testing (Functional, Regression, Exploratory, Integration, End-to-End)  
+✔️ Test Case Planning/Design/Execution  
+✔️ Agile/Scrum  
+✔️ Defect Reporting & Triage  
+✔️ Accessibility Testing (JAWS, VoiceOver, TalkBack, Dragon)  
 
+**Automation & Tools**  
+⚡ Cypress | Playwright | Postman (API) | JMeter | K6 | Gherkin (BDD)  
+⚡ SQL (Database Validation) | GitLab Pipelines | GitHub Actions  
+
+**Collaboration & Version Control**  
+📌 Jira | Confluence | Xray Test Management | GitLab | GitHub  
+
+**Additional Expertise**  
+🌐 Web & Mobile Testing | 📱 Device & Software Update Validation  
+🧩 Strong Analytical & Detail Orientation | 🤝 Effective Communication & Team Collaboration  
 
 
 
